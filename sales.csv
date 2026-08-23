@@ -1,0 +1,11 @@
+Order_ID,Category,Bill_Amount,Delivery_Time_Min,Rating
+101,Snacks,150,8,4.5
+102,Dairy,80,12,4.0
+103,Electronics,950,15,5.0
+104,Vegetables,,10,3.5
+105,Fruits,200,9,4.2
+106,Snacks,120,,4.0
+107,Dairy,95,7,4.8
+108,Snacks,300,11,4.5
+109,Beverages,180,8,
+110,Dairy,110,9,4.9
